@@ -11,3 +11,7 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 1. Modificas una serie de archivos en tu directorio de trabajo.
 2. Preparas los archivos añadiéndolos a tu área de preparación.
 3. Dáselo con emoción.
+
+```
+Esta línea fue creada en la rama master
+```
