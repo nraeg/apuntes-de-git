@@ -1,4 +1,4 @@
-### git-log
+# git-log
 Muestra todo el historial de commits del proyecto.
 
 `git log --oneline`
