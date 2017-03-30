@@ -10,3 +10,6 @@ Con este comando vinculamos nuestro repositorio local con GitHub.
 6. Hacer push de mis cambios (enviar los commits locales a GitHub) `git push origin nombre-rama`.
 7. Crear un pull request con la nueva rama de mi repositorio en GitHub.
 8. Esperar que el administrador del repositorio original acepte mis cambios.
+
+## Varios repositorios remotos
+Podemos configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos.
