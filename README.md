@@ -13,3 +13,4 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 3. Dáselo con emoción.
 
 
+Esta línea se agregó desde un equipo windows con conectando al repositorio local con Github a través de HTTPS.
