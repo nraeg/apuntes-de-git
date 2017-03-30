@@ -12,6 +12,4 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 2. Preparas los archivos añadiéndolos a tu área de preparación.
 3. Dáselo con emoción.
 
-## Aportes desde otra cuenta
-Este texto fue aportado desde la cuenta erantesriv.
 
